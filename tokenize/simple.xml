@@ -1,0 +1,10 @@
+<root>
+  first element comming:
+  <firstnode>
+    <child id="me"/>
+  </firstnode>
+  second element comming:
+  <secondnode>
+    <child id="you">text</child>
+  </secondnode>
+</root>
